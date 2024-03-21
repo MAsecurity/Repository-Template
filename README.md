@@ -7,4 +7,4 @@ such that i have all my set up in one place, thus saving me time.
 Quick tip: Dependencies can be installed from the package.json file by running npm install.
 ```properties
 npm install
-``
+```
